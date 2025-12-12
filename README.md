@@ -24,7 +24,7 @@ State-of-the-art papers on prompt-based continual learning approaches:
 
 * **DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning** (ECCV 2022)
   - Paper: [https://arxiv.org/abs/2204.04799](https://arxiv.org/abs/2204.04799)
-  - Code: [https://github.com/google-research/l2p](https://github.com/google-research/l2p)
+  - Code: [https://github.com/google-research/dualprompt](https://github.com/google-research/dualprompt)
 
 * **S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning** (NeurIPS 2022)
   - Paper: [https://arxiv.org/abs/2207.12819](https://arxiv.org/abs/2207.12819)
@@ -42,11 +42,11 @@ State-of-the-art papers on prompt-based continual learning approaches:
 
 * **AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning** (CVPR 2023)
   - Paper: [https://arxiv.org/abs/2305.11488](https://arxiv.org/abs/2305.11488)
-  - Code: [https://github.com/bhrqw/AttriCLIP](https://github.com/bhrqw/AttriCLIP)
+  - Code: [https://github.com/linbin0/AttriCLIP-KD](https://github.com/linbin0/AttriCLIP-KD)
 
 * **PIVOT: Prompting for Video Continual Learning** (CVPR 2023)
   - Paper: [https://arxiv.org/abs/2212.04842](https://arxiv.org/abs/2212.04842)
-  - Code: [https://github.com/bhrqw/PIVOT](https://github.com/bhrqw/PIVOT)
+  - Code: [https://github.com/ClementSicard/PIVOT](https://github.com/ClementSicard/PIVOT)
 
 ## Regularization-based
 
@@ -135,7 +135,7 @@ Comprehensive surveys and benchmark papers:
   - Paper: [https://arxiv.org/abs/1909.08383](https://arxiv.org/abs/1909.08383)
 
 * **A Continual Learning Survey: Defying Forgetting in Classification Tasks** (TPAMI 2021)
-  - Paper: [https://arxiv.org/abs/1909.08383](https://arxiv.org/abs/1909.08383)
+  - Paper: [https://ieeexplore.ieee.org/document/9349197](https://ieeexplore.ieee.org/document/9349197)
 
 * **Continual Learning with Deep Architectures** (2020)
   - Paper: [https://arxiv.org/abs/2008.12748](https://arxiv.org/abs/2008.12748)
