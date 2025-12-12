@@ -2,6 +2,7 @@
 
 ## Prompt-based
 ### 2025
+- <a name="todo"></a> REP: Resource-Efficient Prompting for Rehearsal-Free Continual Learning (**NeurIPS 2025**) [[paper](arxiv.org/pdf/2406.04772)]
 - <a name="todo"></a> Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.21588v1)][[code](https://github.com/ENJOY-Yin-jiong/PHP)]
 - <a name="todo"></a> Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning (**ICCV 2025**) [[paper](https://arxiv.org/pdf/2503.07979)][[code](https://github.com/HaoranChen/Additive-Prompt-Tuning)]
 - <a name="todo"></a> RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.22553)]
