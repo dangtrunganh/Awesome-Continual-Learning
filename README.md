@@ -1,6 +1,9 @@
 # Awesome-Continual-Learning
 
 ## Prompt-based
+### 2026
+- <a name="todo"></a> One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning (**ICLR 2026**) [[paper](https://arxiv.org/pdf/2509.24483)]
+
 ### 2025
 - <a name="todo"></a> REP: Resource-Efficient Prompting for Rehearsal-Free Continual Learning (**NeurIPS 2025**) [[paper](arxiv.org/pdf/2406.04772)]
 - <a name="todo"></a> Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (**ICCV 2025**) [[paper](https://arxiv.org/abs/2507.21588v1)][[code](https://github.com/ENJOY-Yin-jiong/PHP)]
@@ -45,8 +48,10 @@
 - <a name="todo"></a> Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2310.07234)]
 - <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)[[paper](https://arxiv.org/abs/2307.06948)][[code](https://github.com/muzairkhattak/PromptSRC)]
 - <a name="todo"></a> When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_When_Prompt-based_Incremental_Learning_Does_Not_Meet_Strong_Pretraining_ICCV_2023_paper.pdf)]
+- <a name="todo"></a> LAE - A Unified Continual Learning Framework with General Parameter-Efficient Tuning (**ICCV 2023**)[[paper](https://arxiv.org/pdf/2303.10070)]
 - <a name="todo"></a> Introducing Language Guidance in Prompt-based Continual Learning (**ICCV 2023**)[[paper](https://arxiv.org/abs/2308.15827)]
 - <a name="todo"></a> PIVOT: Prompting for Video Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2212.04842.pdf)]
+- <a name="todo"></a> À-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting (**CVPR2023**)[[paper](https://arxiv.org/pdf/2302.07994)]
 - <a name="todo"></a> CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR2023**)[[paper](https://arxiv.org/pdf/2211.13218.pdf)][[code](https://github.com/GT-RIPL/CODA-Prompt)]
 - <a name="todo"></a> Progressive Prompts: Continual Learning for Language Models without Forgetting (**ICLR2023**)[[paper]( https://openreview.net/pdf?id=UJTgQBc91_)]
 
@@ -56,6 +61,23 @@
 - <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) [[paper](https://arxiv.org/abs/2204.04799)] [[code](https://github.com/google-research/l2p)]
 - <a name="todo"></a> Learning to Prompt for Continual Learning (**CVPR2022**) [[paper](https://arxiv.org/abs/2112.08654)] [[code](https://github.com/google-research/l2p)]
 
+## LoRA
+### 2025
+- <a name="todo"></a> SD-LoRA - Scalable Decoupled Low-Rank Adaptation For Class Incremental Learning (**ECCV24**)[[paper](https://arxiv.org/pdf/2501.13198)]
+
+### 2024
+- <a name="todo"></a> InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning (**CVPR24**)[[paper](https://arxiv.org/pdf/2404.00228)]
+- <a name="todo"></a> Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation (**WACV24**)[[paper](https://arxiv.org/pdf/2411.05663)]
+
 ## Other pretrained-based
+### 2026
+- <a name="todo"></a> LCA: Local Classifier Alignment For Continual Learning (**ICLR 2026**) [[paper](https://openreview.net/pdf?id=3uINmRldVW)]
+
 ### 2024
 - <a name="todo"></a> Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need (**IJCV 2024**) [[paper](https://arxiv.org/abs/2303.07338)][[code](https://github.com/LAMDA-CL/RevisitingCIL)]
+
+### 2023
+- <a name="todo"></a> SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Mode (**ICCV 2023**) [[paper](https://arxiv.org/pdf/2303.05118)][[full_paper](https://arxiv.org/pdf/2408.08295)][[code](https://github.com/GengDavid/SLCA)]
+- <a name="todo"></a> RanPAC: Random Projections and Pre-trained Models for Continual Learning (**NIPS 2023**) [[paper](https://arxiv.org/pdf/2307.02251)][[code](https://github.com/McDonnell-Research-Lab/RanPAC)]
+
+
