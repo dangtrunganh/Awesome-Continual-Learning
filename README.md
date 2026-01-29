@@ -43,6 +43,7 @@
 - <a name="todo"></a> Convolutional Prompting meets Language Models for Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/pdf/2403.20317)][[code](https://github.com/CVIR/ConvPrompt)]
 - <a name="todo"></a> Evolving Parameterized Prompt Memory for Continual Learning (**AAAI2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29231)][[code](https://github.com/MIV-XJTU/EvoPrompt)]
 - <a name="todo"></a> Steering Prototypes with Prompt-tuning for Rehearsal-free Continual Learning (**WACV2024**)[[paper](https://arxiv.org/abs/2303.09447)][[code](https://github.com/LzVv123456/Contrastive-Prototypical-Prompt)]
+- <a name="todo"></a> Dynamically Anchored Prompting for Task-Imbalanced Continual Learning (**IJCAI2024**)[[paper](https://arxiv.org/pdf/2404.14721)][[code](https://github.com/chenxing6666/DAP)]
 
 ### 2023
 - <a name="todo"></a> Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2310.07234)]
